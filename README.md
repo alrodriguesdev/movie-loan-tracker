@@ -1,5 +1,7 @@
 # Movie Loaning App - Learning Project
 
+[!Video Title] (https://vimeo.com/manage/videos/879977362)
+
 ## Introduction
 
 This repository contains a project designed to help me learn and experiment with backend development technologies. It's a movie loaning app where users can search the TMDB database for movies they own and would like to loan to offline friends. Users can search for a movie by title, click "Loan this movie," and then see that movie listed under the "Out on Loan" tab. While the scope of the project expanded beyond the initial plan, it served as an excellent platform for practical learning and understanding web app architecture, database handling, and usability considerations.
