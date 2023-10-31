@@ -1,0 +1,29 @@
+/* Normal state styling */
+.clickable-list-item {
+  transition: all 0.3s ease; /* Smooth transition effect */
+  /* Add any other default styles you want */
+}
+
+/* Hover state styling */
+.clickable-list-item:hover {
+  background-color: #007bff; /* This is Bootstrap's primary color. You can use any color you prefer. */
+  color: #ffffff; /* White text color */
+  cursor: pointer; /* Show hand cursor on hover */
+}
+
+.btn {
+  margin-top: 0.7rem;
+}
+
+.card-title {
+  min-height: 60px;
+  overflow: hidden;
+  font-size: 1rem;
+}
+
+.card {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
